@@ -1,4 +1,4 @@
-package org.aditya.designpatterns;
+package org.aditya.designpatterns.singleton;
 
 import java.io.Serializable;
 
